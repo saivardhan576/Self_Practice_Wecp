@@ -1,0 +1,351 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EqualMatrix",
+            "request": "launch",
+            "mainClass": "MS1.EqualMatrix",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "LambdaExp",
+            "request": "launch",
+            "mainClass": "LambdaExp",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "JDBC.Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Student$StudentSetExample",
+            "request": "launch",
+            "mainClass": "Student$StudentSetExample",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "StudentSetExample",
+            "request": "launch",
+            "mainClass": "StudentSetExample",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MainImpl",
+            "request": "launch",
+            "mainClass": "MainImpl",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "GradeCalculator",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "SwitchEx",
+            "request": "launch",
+            "mainClass": "SwitchEx",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "InterativeRecipePlanner",
+            "request": "launch",
+            "mainClass": "PracticeQuestions.InterativeRecipePlanner",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "CustomExcptn",
+            "request": "launch",
+            "mainClass": "CustomExcptn",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Switch1",
+            "request": "launch",
+            "mainClass": "Switch1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ExComparator",
+            "request": "launch",
+            "mainClass": "ExComparator",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ExComparable",
+            "request": "launch",
+            "mainClass": "ExComparable",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashMapEx",
+            "request": "launch",
+            "mainClass": "HashMapEx",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Foo",
+            "request": "launch",
+            "mainClass": "Foo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "HashSetEx",
+            "request": "launch",
+            "mainClass": "HashSetEx",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "UserException",
+            "request": "launch",
+            "mainClass": "UserException",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "CustomExceptionEx",
+            "request": "launch",
+            "mainClass": "CustomExceptionEx",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionEx",
+            "request": "launch",
+            "mainClass": "ExceptionEx",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "AlCustomClass",
+            "request": "launch",
+            "mainClass": "AlCustomClass",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ExLinkedList",
+            "request": "launch",
+            "mainClass": "ExLinkedList",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "IteratorDemo",
+            "request": "launch",
+            "mainClass": "IteratorDemo",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListExampl",
+            "request": "launch",
+            "mainClass": "ArrayListExampl",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClasses",
+            "request": "launch",
+            "mainClass": "WrapperClasses",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "TestBank",
+            "request": "launch",
+            "mainClass": "TestBank",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "Main3",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main2",
+            "request": "launch",
+            "mainClass": "Main2",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArrayCopy",
+            "request": "launch",
+            "mainClass": "ArrayCopy",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ExCollection",
+            "request": "launch",
+            "mainClass": "ExCollection",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "Main1",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "EqualMatrix",
+            "request": "launch",
+            "mainClass": "EqualMatrix",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "MultiDim",
+            "request": "launch",
+            "mainClass": "MultiDim",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "GreatestElement",
+            "request": "launch",
+            "mainClass": "GreatestElement",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "type": "java",
+            "name": "ArraySum",
+            "request": "launch",
+            "mainClass": "ArraySum",
+            "projectName": "root_d0c36c09"
+        },
+        {
+            "name": "Test App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Test App",
+            "type": "pwa-node"
+        },
+        {
+            "name": "Submit App",
+            "program": "${workspaceFolder}/__m.js",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "postDebugTask": "Submit App",
+            "type": "pwa-node"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-HelloworldApplication<helloworld>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ltim.helloworld.HelloworldApplication",
+            "projectName": "helloworld",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-UserApplication<user>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sai.user.UserApplication",
+            "projectName": "user",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-DatajpaApplication<datajpa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.datajpa.datajpa.DatajpaApplication",
+            "projectName": "datajpa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-EmployeeManagementApplication<employee_management>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.day12.employee_management.EmployeeManagementApplication",
+            "projectName": "employee_management",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-OnetooneApplication<onetoone>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mapping.onetoone.OnetooneApplication",
+            "projectName": "onetoone",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ManytooneApplication<manytoone>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.mapping1.manytoone.ManytooneApplication",
+            "projectName": "manytoone",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

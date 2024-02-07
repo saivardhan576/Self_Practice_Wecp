@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="script.js"></script>
+   
+</head>
+<body>
+<hr>
+<div class="form-quiz">
+    <form id="quizform" >
+       <p id="no" >Q. 1 of 5</p></form><hr>
+        <p id="question" >question will be loaded here</p><br/>
+       
+        1: <input type="radio" id="option1" name="answer" value="option1"><label id="answer1" for="option1">option 1</label><br/>
+        2: <input type="radio" id="option2" name="answer" value="option2"><label id="answer2" for="option2">option 2</label><br/>
+        3: <input type="radio" id="option3" name="answer" value="option3"><label id="answer3" for="option3">option 3</label><br/>
+        4: <input type="radio" id="option4" name="answer" value="option4"><label id="answer4" for="option4">option 4</label><br/>
+        <button  id="next" onclick="nextQuestion()"  style="width: 3cm;margin: 10px;align-self: center; transform: translateY(4px); background-color: green;color: white; border-radius: 5px; "disabled>Next</button><br/><hr>
+        <button id ="sub" onclick="submit()" style="width: 5cm;margin: 3px;background-color: rgb(241, 140, 140);color: rgb(6, 6, 6);border-radius: 5px;" disabled>Submit</button></hr>
+    </form>
+    <hr>
+    <p id="score"style="align-self: center;">Score :: 0</p>
+</fieldset>
+</div>
+</body>
+</html>
